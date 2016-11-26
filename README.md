@@ -8,7 +8,8 @@ Please folow the instructions and install angular-cli.
 - install the angular-cli: `npm install angular-cli -g`  [https://cli.angular.io/](https://cli.angular.io/)
 
 ## Development server
-- Clone (or download) this project, cd to the root directory and run `ng serve` 
+- Clone (or download) this project, cd to the root directory and run `npm install`
+- Run `ng serve` 
 - Navigate to `http://localhost:4200/`.
  
 The app will automatically reload if you change any of the source files.
